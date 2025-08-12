@@ -1,0 +1,14 @@
+.one, 
+.one-yellow {
+    font-size: 28;
+    font-family: Helvetica, 'Times New Roman', sans-serif; 
+}
+
+.one {
+   background-color: black; 
+   color:white;
+}
+
+.one-yellow {
+    background-color: yellow;
+}
